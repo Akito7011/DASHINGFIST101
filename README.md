@@ -1,1 +1,1 @@
-![github-stats](https://github.com/DASHINGFIST101/github-stats/blob/master/generated/overview.svg) ![github-stats](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DASHINGFIST101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DASHINGFIST101&layout=compact&langs_count=7&theme=dark"/>
