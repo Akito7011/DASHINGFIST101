@@ -22,8 +22,7 @@ Hello there! I'm Tanishq, a passionate Cybersecurity Enthusiast who loves diving
 ## 🚀 Projects
 
 - **Intrusion Detection System (IDS):** A real-time IDS to monitor and detect suspicious activities on the network.
-- **Akame-Auth:** A live demo on authentication mechanisms with support of TOPT (work in progress)
-
+- **Active Directory Simulation**
 ## 💬 Let's Connect!
 
 If you share similar interests or have any questions, feel free to reach out to me. I'm always open to exciting conversations and collaborations!
@@ -44,8 +43,8 @@ If you share similar interests or have any questions, feel free to reach out to 
 
 Thank you for visiting my profile! Let's make the digital world a safer place together. 🚀
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akito7011&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akito7011&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akito7011&theme=chartreuse_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akito7011&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanishq404E&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanishq404E&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanishq404E&theme=chartreuse_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanishq404E&theme=chartreuse_dark)
 
