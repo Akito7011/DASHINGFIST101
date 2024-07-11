@@ -23,12 +23,13 @@ Hello there! I'm Tanishq, a passionate Cybersecurity Enthusiast who loves diving
 
 - **Intrusion Detection System (IDS):** A real-time IDS to monitor and detect suspicious activities on the network.
 - **Active Directory Simulation**
+- **Malware Analysis HomeLab**
 ## 💬 Let's Connect!
 
 If you share similar interests or have any questions, feel free to reach out to me. I'm always open to exciting conversations and collaborations!
 
 [![Email](https://img.shields.io/badge/Email-mailto%3Amail%40me.com-blue?logo=gmail&logoColor=white)](mailto:tanishqtanwar1976@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-tanwar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq404e)
 ```bash
    Discord: akito.404_error
    ```
