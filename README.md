@@ -16,14 +16,14 @@ Hello there! I'm Tanishq, a passionate Cybersecurity Enthusiast who loves diving
 
 - **Languages & Scripts:** Python, Bash, PowerShell
 - **Tools:** Wireshark, Nmap, Metasploit, Burp Suite
-- **Certifications:** EHE, ISC2 CC, Computer Networks by Coursera, Google Cloud Skill Boost, Security+(soon)
-- **Concepts:** Network Security, Threat Detection, Ethical Hacking, Pentesting, Incident Response, Cryptography
+- **Certifications:** EHE, SecOps Group Certified Network Security Practitioner, CISCO Junior Cybersecurity Analyst, Google Cloud Skill Boost
+- **Concepts:** Network Security, Threat Detection, Ethical Hacking, Pentesting, Incident Response, Cryptography, NIST Framework, VAPT Analysis, SIEM
 
 ## 🚀 Projects
 
 - **Intrusion Detection System (IDS):** A real-time IDS to monitor and detect suspicious activities on the network.
-- **Active Directory Simulation**
-- **Malware Analysis HomeLab**
+- **Active Directory Simulation:** This project involves setting up a simulated Active Directory environment with integrated Splunk monitoring and sysmon to gather logs.
+- **Malware Analysis HomeLab**: Malware Analysis HomeLab to study and research about malware using the static and dynamic testing approach.
 ## 💬 Let's Connect!
 
 If you share similar interests or have any questions, feel free to reach out to me. I'm always open to exciting conversations and collaborations!
