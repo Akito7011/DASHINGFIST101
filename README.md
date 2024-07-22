@@ -15,7 +15,6 @@ Hello there! I'm Tanishq, a passionate Cybersecurity Enthusiast who loves diving
 ## 🔧 Skills & Tools
 
 - **Languages & Scripts:** Python, Bash, PowerShell
-- **Tools:** Wireshark, Nmap, Metasploit, Burp Suite
 - **Certifications:** EHE, SecOps Group Certified Network Security Practitioner, CISCO Junior Cybersecurity Analyst, Google Cloud Skill Boost
 - **Concepts:** Network Security, Threat Detection, Ethical Hacking, Pentesting, Incident Response, Cryptography, NIST Framework, VAPT Analysis, SIEM
 
