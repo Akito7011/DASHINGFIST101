@@ -1,4 +1,4 @@
-# 👾 Cyber Enthusiast | Network Wizard 🧙‍♂️🪄
+# 👾 Cyber Enthusiast | Cyber Wizard 🧙‍♂️🪄
 
 ![Cyber](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wzbzAxazNwOWI4eDMyYTdoejlpZ2lpcWFibHZjaG5zaWdyMmdoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZTUfoXigKRpCM/giphy.gif)
 
