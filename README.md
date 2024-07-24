@@ -1,10 +1,9 @@
 # 👾 Cyber Enthusiast | Cyber Wizard 🧙‍♂️🪄
 
-![Cyber](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wzbzAxazNwOWI4eDMyYTdoejlpZ2lpcWFibHZjaG5zaWdyMmdoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZTUfoXigKRpCM/giphy.gif)
+
+<img align="right" alt="Coding" width="265" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2wzbzAxazNwOWI4eDMyYTdoejlpZ2lpcWFibHZjaG5zaWdyMmdoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZTUfoXigKRpCM/giphy.gif">
 
 Hello there! I'm Tanishq, a passionate Cybersecurity Enthusiast who loves diving into the depths of network security, ethical hacking, and all things cyber. I am dedicated to protecting the digital world and staying ahead of the curve in the ever-evolving field of cybersecurity.
-
-## 🌟 About Me
 
 - 🛡️ **Security Aficionado:** Exploring the fascinating world of cyber threats and defenses.
 - 💻 **Tech Lover:** Constantly tinkering with new technologies and tools.
